@@ -1,2 +1,2 @@
 mysql:
-  url: jdbc:mysql://127.0.0.1:3306/backed?characterEncoding=utf8&serverTimezone=Asia/Shanghai&autoReconnect=true
+  url: jdbc:mysql://127.0.0.1:3306/backed?characterEncoding=utf8&serverTimezone=Asia/Shanghai&autoReconnect=true123456
